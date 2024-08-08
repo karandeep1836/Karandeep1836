@@ -10,7 +10,7 @@
 
 - 📫To reach me click here -> **karan.work321@gmail.com**
   
-- 😄I believe that if somebody is working hard, you will succeed no matter what. The work you put in will never go waste. 
+- 😄I believe that if you are maintaning the consistency of learning  you will succeed no matter what. The work you put in will never go waste. 
 
 - ⚡Fun Fact: I am a Singer too
 
