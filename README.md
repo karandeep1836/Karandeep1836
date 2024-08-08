@@ -3,7 +3,7 @@
 <h3 align="center">A passionate self taught web developer diving deep into frontend and backend concepts</h3>
 <img align="right" alt = "Coding" width = "450"src = "https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-<br>
+
 - 🌱 With a strong knowledge of Frontend developement, tailored with reactjs, I am diving deep into these concepts and I’m currently learning **Nodejs and React**
 
 - 💬 Ask me about **react, JavaScript, C++**.
